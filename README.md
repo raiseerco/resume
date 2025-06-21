@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hi,+this+is+Leo+Sagan+🕶️)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hi!+This+is+Leo+Sagan+🕶️)
 
 - **Locations:**
   - 🇦🇷 Buenos Aires, Argentina
@@ -28,50 +28,50 @@ I aim to contribute to projects where user experience, protocol safety, and comm
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-### **Full Stack Engineer** – Ethernaut DAO _(Buenos Aires, Argentina — Feb 2025 – Present)_
+#### **Full Stack Engineer** – Ethernaut DAO _(Buenos Aires, Argentina — Feb 2025 – Present)_
 
-- Developer of Ethernaut-CLI. Led transition to an AI-powered web platform using OpenAI APIs and full-stack Next.js architecture.
+> Developer of Ethernaut-CLI. Led transition to an AI-powered web platform using OpenAI APIs and full-stack Next.js architecture.
 
-### **Full Stack Engineer** – SeedLatam.org _(New York, US / Remote — Apr 2024 – Jan 2025)_
+#### **Full Stack Engineer** – SeedLatam.org _(New York, US / Remote — Apr 2024 – Jan 2025)_
 
-- Bootstrapped [syntra.pro](https://syntra.pro), a DAO management platform for Optimism and Arbitrum.
-- Explored Uniswap v4 hooks for hackathon planning.
+> Bootstrapped [syntra.pro](https://syntra.pro), a DAO management platform for Optimism and Arbitrum.
+> Explored Uniswap v4 hooks for hackathon planning.
 
-### **Full Stack Engineer** – EthLatam.org _(New York, US — Mar – May 2024)_
+#### **Full Stack Engineer** – EthLatam.org _(New York, US — Mar – May 2024)_
 
-- Launched quadratic funding platform and faucet on Optimism for 1500+ hackathon participants.
+> Launched quadratic funding platform and faucet on Optimism for 1500+ hackathon participants.
 
-### **Full Stack Engineer** – W3g.io / Maker Growth _(Wrocław, Poland — Dec 2023 – Apr 2024)_
+#### **Full Stack Engineer** – W3g.io / Maker Growth _(Wrocław, Poland — Dec 2023 – Apr 2024)_
 
-- Developed BI platform for MakerDAO campaign analytics using Next.js, Firebase, and off-chain data.
+> Developed BI platform for MakerDAO campaign analytics using Next.js, Firebase, and off-chain data.
 
-### **Backend Engineer** – Mode.Network _(Wrocław, Poland — Nov 2023 – Jan 2024)_
+#### **Backend Engineer** – Mode.Network _(Wrocław, Poland — Nov 2023 – Jan 2024)_
 
-- Implemented backend logic in Go for MODE airdrop campaign handling 400M tokens.
+> Implemented backend logic in Go for MODE airdrop campaign handling 400M tokens.
 
-### **Co-Founder & Tech Lead** – Nata.Social _(Lisbon, Portugal — Jan – Oct 2023)_
+#### **Co-Founder & Tech Lead** – Nata.Social _(Lisbon, Portugal — Jan – Oct 2023)_
 
-- Built social bookmarking integrating Lens, IPFS, Arweave, Push protocol.
-- Won $120k in grants, Modular Hackathon BA winner, part of Kleros accelerator.
+> Built social bookmarking integrating Lens, IPFS, Arweave, Push protocol.
+> Won $120k in grants, Modular Hackathon BA winner, part of Kleros accelerator.
 
-### **Full Stack Developer & Blockchain Consultant** – Bloq Inc. _(Chicago, US / Remote — Nov 2020 – Jan 2023)_
+#### **Full Stack Developer & Blockchain Consultant** – Bloq Inc. _(Chicago, US / Remote — Nov 2020 – Jan 2023)_
 
-- Developed frontend, wallet, and L2 integrations for [vesper.finance](https://vesper.finance) ($15M to $1.4B TVL growth).
-- Built Ethereum staking/Algorand tools for Bloq.Cloud and Stake.bloq.com.
+> Developed frontend, wallet, and L2 integrations for [vesper.finance](https://vesper.finance) ($15M to $1.4B TVL growth).
+> Built Ethereum staking/Algorand tools for Bloq.Cloud and Stake.bloq.com.
 
-### **Head of Development** – 8-Bit.io _(Buenos Aires, Argentina — Aug 2018 – Jan 2020)_
+#### **Head of Development** – 8-Bit.io _(Buenos Aires, Argentina — Aug 2018 – Jan 2020)_
 
-- Built research tools with .NET/Azure/Xamarin integrating off-chain/on-chain data for top 1,000 crypto assets.
+> Built research tools with .NET/Azure/Xamarin integrating off-chain/on-chain data for top 1,000 crypto assets.
 
-### **Full Stack & IoT Engineer** – Indawo S.R.L. _(Buenos Aires, Argentina — Jan 2017 – Aug 2018)_
+#### **Full Stack & IoT Engineer** – Indawo S.R.L. _(Buenos Aires, Argentina — Jan 2017 – Aug 2018)_
 
-- Built Linux-based IoT systems for safety, asset tokenization, cold chain with NFC/RFID and ERP integrations.
+> Built Linux-based IoT systems for safety, asset tokenization, cold chain with NFC/RFID and ERP integrations.
 
-### **Full Stack Engineer** – Digip.com.ar _(Buenos Aires, Argentina — Dec 2013 – Jan 2017)_
+#### **Full Stack Engineer** – Digip.com.ar _(Buenos Aires, Argentina — Dec 2013 – Jan 2017)_
 
-- Delivered mobile/web systems with .NET stack, data visualizations, and integrated Firebase and PostgreSQL backends.
+> Delivered mobile/web systems with .NET stack, data visualizations, and integrated Firebase and PostgreSQL backends.
 
 ---
 
@@ -82,8 +82,9 @@ I aim to contribute to projects where user experience, protocol safety, and comm
 **Frontend:** Next.js, React Native, Tailwind, TypeScript, JavaScript, Vue.js  
 **Wallet & Web3 Integration:** RainbowKit, Wagmi, ethers.js, viem, web3.js  
 **Backend:** Node.js, Express, Go, Rust, Python, Java  
+**AI:** Hugging face, LangChain, N8N, OpenAI API, LLM models (GPT, Gemini, Claude, Perplexity, Mistral, Llama)  
 **Databases & Storage:** PostgreSQL, MySQL, Supabase, Firebase, IPFS, Arweave, Ceramic  
-**Web3 APIs & Indexing:** Alchemy, Infura, Helius, The Graph, Moralis
+**Web3 APIs & Indexing:** Alchemy, Infura, Helius, The Graph, Moralis  
 
 ---
 
@@ -120,14 +121,17 @@ I aim to contribute to projects where user experience, protocol safety, and comm
 
 ## Some stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raiseerco&show_icons=true&locale=en&layout=compact" alt="raiseerco" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiseerco&" alt="raiseerco" /></p> <p><img
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raiseerco&show_icons=true&locale=en&layout=compact" alt="raiseerco" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiseerco&" alt="raiseerco" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raiseerco&show_icons=true" alt="raiseerco" /></p>
+
 
 ---
 
 ## Stack and Tools
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="24" width="24" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="24" width="24" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="24" width="24" />
@@ -160,3 +164,4 @@ I aim to contribute to projects where user experience, protocol safety, and comm
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="24" width="24" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="24" width="24" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="24" width="24" />
+</p>
